@@ -1,0 +1,4 @@
+require_relative 'minecraft_query_lib/query_client'
+
+module MinecraftQueryLib
+end
